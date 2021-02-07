@@ -1,5 +1,5 @@
 # MoneyCollection_practical
-Moneny Collection Maxmoney function
+Moneny Collection Maxmoney function Description
 
 MoneyMax function has the following parameters:
 n: an integer that denotes the number of classmates
@@ -60,3 +60,5 @@ Julia must skip some classmate because collecting from all her classmates will r
 ●	 She can refuse to collect 1 dollar from classmate 1, meaning that sum = 0. Next, she can collect 2 dollars from classmate 2 to get sum = 0 + 2 = 2. Next, she can collect 3 dollars from classmate 3 to get sum = 2 + 3 = 5.
 Because we want the maximum amount of money that Julia can collect from her sequentially-numbered classmates without ever having a sum equal to k, we return 5 as our answer.
 
+File Name : 
+maxMoneyCollection.php
